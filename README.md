@@ -1,29 +1,21 @@
-# web-dev-starter
+# CS408 - M3.2 Lab
+    For this lab, we are taking a blank txt file and adding format to it.
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
+    This txt file will become a well formated letter involving many 
+    different types of lists as well as easy readability.
 
 ## Getting Started
+    To get started, clone this repository, and then you can learn 
+    to view it in the "Viewing" section. Which is below.
 
-To get started, clone this repository and run the following commands:
+## Viewing
+    I highly recommend using VSCode Live Server extention to see the project. This allows you to
+    see the page, and interact with the page without having to open it in a local file.
 
-```bash
-npm install
-```
-This will install the necessary dependencies for the project.
+    In order to view the pop ups you may have to enter into a webpage. If you are using 
+    live extention you can copy the link and paste it into a web browser to test it
 
-## Development
-
-It is recommended to use the VSCode Live Server extension to run the project
-locally. This will allow you to see changes in real-time as you make them. There
-is no need to run a build process or refresh the page manually. Additionally,
-you do not need to setup a local server to run the project.
 
 ## Testing
-
-To run the tests for the project, run the following command:
-
-```bash
-npm test
-```
+    There is no tests for this project. As such there is no
+    command to run them.
